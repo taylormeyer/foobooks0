@@ -1,0 +1,16 @@
+body {
+    padding: 20px;
+
+}
+
+.book {
+    border: 1px solid;
+    border-color: silver;
+    max-width: 500px;
+    margin: 5px;
+    padding: 15px;
+}
+
+.title {
+    font-weight: bold;
+}
